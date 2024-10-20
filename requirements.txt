@@ -14,3 +14,4 @@ wandb
 pycocoevalcap
 clip
 spacy
+huggingface_hub
